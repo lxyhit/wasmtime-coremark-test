@@ -1,0 +1,2 @@
+# 测试动态模块
+用wasmtime链接动态模块coremark.wasm以及libc.wasm进行简单测试
