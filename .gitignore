@@ -1,3 +1,6 @@
 /target
-/clang_addr.txt
-/vscode
+/.vscode
+/test
+/*.wasm
+/wasm-files
+/libsodium-test-dynamic
