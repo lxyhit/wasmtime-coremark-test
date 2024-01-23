@@ -2,5 +2,4 @@
 /.vscode
 /test
 /*.wasm
-/wasm-files
 /libsodium-test-dynamic
